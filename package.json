@@ -27,7 +27,7 @@
   "dependencies": {
     "@actions/core": "^1.6.0",
     "@actions/github": "^5.0.0",
-    "@octokit/rest": "^18.12.0",
+    "@octokit/rest": "^20.0.1",
     "quick-pivot": "^2.7.0",
     "xlsx": "^0.17.4"
   },
